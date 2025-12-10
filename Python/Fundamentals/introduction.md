@@ -1,6 +1,4 @@
-# Python
-
-## Introduction
+## Introduction of Python
 - Python là 1 ngôn ngữ thông dịch, được tạo ra bởi Guido van Rossum và được ra mắt lần đầu vào năm 1991.
 - Python sử dụng cơ chế **kiểu dữ liệu dynamic**, tự quản lý bộ nhớ và hỗ trợ nhiều mô hình lập trình như
 thủ tục, hàm và đối tượng.
